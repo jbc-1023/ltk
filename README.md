@@ -30,4 +30,13 @@ There are 2 versions of the test<br>
     </ol>
 </ul>
 
+## Test parameters
+Details
+<ul>
+    <li>Sign up using a randomly generated email address and password.</li>
+    <li>Randomly generated email is a valid and deliverable email address to avoid spam flagging (aka email reputation).</li>
+    <li>Selenium-Python has an extra tests that compares the screenshot and give a pass/fail depending on % change threshold.</li>
+    <li>Generated passwords are ephemeral. Nothing is stored nor saved/shown in logs.</li>
+    <li>If you are having issues please ask me or  try <a href="https://www.youtube.com/watch?v=p85xwZ_OLX0">this amazing solution</a>.</li>
+</ul>
 
