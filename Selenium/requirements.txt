@@ -1,0 +1,4 @@
+selenium
+english-words
+pillow
+numpy
