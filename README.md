@@ -1,5 +1,9 @@
 # LTK - Demo test suite
 
+This repo is available at <a href="https://github.com/jbc-1023/ltk">https://github.com/jbc-1023/ltk</a><br>
+<br>
+<br>
+
 There are 2 versions of the test<br>
 <ul>
     <li>Selenium (Written in Python)</li>
@@ -10,7 +14,7 @@ There are 2 versions of the test<br>
 <ul>
     <li>UI Automation</li>
     <ol>
-        <li>Go to https://wwwshopltk.com</li>
+        <li>Go to <a href="https://www.shopltk.com">https://www.shopltk.com</a></li>
         <li>Sign up</li>
         <li>Verify landing page after sign up</li>
     </ol>
@@ -18,7 +22,7 @@ There are 2 versions of the test<br>
 <ul>
     <li>Test Cases</li>
     <ol>
-        <li>Go to https://wwwshopltk.com</li>
+        <li>Go to <a href="https://www.shopltk.com">https://www.shopltk.com</a></li>
         <li>Login</li>
         <li>Go to SHOP navigation menu</li>
         <li>Verify categories</li>
